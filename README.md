@@ -15,13 +15,15 @@ This repository contains my Digital Literacy Portfolio, developed as part of the
 Module Summaries
 
 Module 1: Digital Awareness (Task 1)
-Status: Completed 
 Description: Created a professional infographic using Canva to educate peers on digital literacy definitions, essential student tools, and email etiquette.
 Deliverable: [View Infographic](./task-1-presentation/)
 
-### Module 2: Student Digital Portfolio (Task 2)
-* **Status:** In Progress ⏳
-* [cite_start]**Description:** Setting up professional presences on LinkedIn and GitHub to build a foundational digital footprint[cite: 31, 33].
+Module 2: Student Digital Portfolio (Task 2)
+Description: Established a professional digital presence by setting up and optimizing profiles on key platforms. Created a specialized GitHub Profile README to introduce my technical interests and academic background.
+Platforms Set Up: [LinkedIn](www.linkedin.com/in/prisha-verma-585a6a2b9)- Optimized with Education details.
+    [GitHub Profile](https://github.com/YOUR_USERNAME) - Featuring a custom Profile README.
+    [Kaggle](https://www.kaggle.com/prishaverma01) - Set up for future data science and AI collaboration.
+Deliverables:[View Profile Screenshots](./task-2-portfolio/)
 
 ### Module 3: Coding & Collaboration (Task 3)
 * **Status:** In Progress ⏳
