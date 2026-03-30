@@ -49,3 +49,11 @@ Module Summaries
  Case Study: [Phishing & IT Act, 2000 Analysis](./task-5-safety/cybercrime_case_study.md)
  Part-B
  Safety Checklist: [View Digital Safety Guide](./task-5-safety/digital_safety_checklist.md)
+
+
+
+
+---
+
+##  Final Project Documentation
+ Full Project Report: [Download/View Final_Report.pdf](./Final_Project_Report_Prisha.pdf)
