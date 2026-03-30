@@ -1,6 +1,5 @@
 digital-literacy-project
-Digital Literacy Portfolio for CSE0001 - Student Digital Ambassador Assignment
-Student Digital Ambassador Portfolio
+Digital Literacy Portfolio for CSE0001
 
 Student Information
 Name: Prisha verma
