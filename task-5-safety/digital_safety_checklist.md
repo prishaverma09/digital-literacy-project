@@ -28,7 +28,7 @@ How I am careful: If I get an email that says I need to do something away or res
 
  5. Data Backup Strategy
 
-What I do:** I regularly back up my school projects and code on cloud services like Google Drive and GitHub and, on hard drives.
+What I do: I regularly back up my school projects and code on cloud services like Google Drive and GitHub and, on hard drives.
 
  6. Legal & Ethical Compliance
 
