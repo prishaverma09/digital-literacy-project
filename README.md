@@ -25,11 +25,17 @@ Platforms Set Up: [LinkedIn](www.linkedin.com/in/prisha-verma-585a6a2b9)- Optimi
     [Kaggle](https://www.kaggle.com/prishaverma01) - Set up for future data science and AI collaboration.
 Deliverables:[View Profile Screenshots](./task-2-portfolio/)
 
-### Module 3: Coding & Collaboration (Task 3)
-* **Status:** In Progress ⏳
-* [cite_start]**Description:** Engaging with platforms like HackerRank for technical skills and Google Workspace for cloud-based collaboration[cite: 45, 47, 51].
-* [cite_start]**Quiz Link:** [Link will be added here after Task 3 is created] [cite: 54]
+ Module 3: Coding & Collaboration (Task 3)
+ Part A: Technical Platform
+ Platform: HackerRank (Python)
+Proof of Completion: [View HackerRank Screenshot](./task-3-platforms/HackerRank_Python_Proof.png)
 
+ Part B: Google Workspace Collaboration
+ Tool Created: Digital Literacy Awareness Quiz (5-question assessment)
+ Live Form Link: [Click here to take the Quiz](https://docs.google.com/forms/d/16yT7bEZP-TRG-KFYsfoVlXkESM5OOItq17RRZkk6xeo/edit)
+ Data Management: Linked the form to a Google Sheet to showcase real-time data collection and collaboration.
+ Evidence: [View Form & Sheet Screenshots](./task-3-platforms/Quiz_Responses_Sheet.png)
+ 
 ### Module 4: Professional Communication (Task 4)
 * **Status:** In Progress ⏳
 * [cite_start]**Description:** Mastering formal email structures and developing a responsible social media conduct checklist[cite: 59, 61, 67].
