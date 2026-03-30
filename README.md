@@ -1,4 +1,4 @@
-### digital-literacy-project
+digital-literacy-project
  Digital Literacy Portfolio for CSE0001
 
  Student Information
