@@ -15,30 +15,34 @@ This repository contains my Digital Literacy Portfolio, developed as part of the
 Module Summaries
 
 Module 1: Digital Awareness (Task 1)
-Description: Created a professional infographic using Canva to educate peers on digital literacy definitions, essential student tools, and email etiquette.
-Deliverable: [View Infographic](./task-1-presentation/)
+ Description: Created a professional infographic using Canva to educate peers on digital literacy definitions, essential       student tools, and email etiquette.
+ Deliverable: [View Infographic](./task-1-presentation/)
 
 Module 2: Student Digital Portfolio (Task 2)
-Description: Established a professional digital presence by setting up and optimizing profiles on key platforms. Created a specialized GitHub Profile README to introduce my technical interests and academic background.
-Platforms Set Up: [LinkedIn](www.linkedin.com/in/prisha-verma-585a6a2b9)- Optimized with Education details.
+ Description: Established a professional digital presence by setting up and optimizing profiles on key platforms. Created a    specialized GitHub Profile README to introduce my technical interests and academic background.
+ Platforms Set Up: [LinkedIn](www.linkedin.com/in/prisha-verma-585a6a2b9)- Optimized with Education details.
     [GitHub Profile](https://github.com/prishaverma09/prishaverma09.git) - Featuring a custom Profile README.
     [Kaggle](https://www.kaggle.com/prishaverma01) - Set up for future data science and AI collaboration.
-Deliverables:[View Profile Screenshots](./task-2-portfolio/)
+  Deliverables:[View Profile Screenshots](./task-2-portfolio/)
 
- Module 3: Coding & Collaboration (Task 3)
- Part A: Technical Platform
- Platform: HackerRank (Python)
-Proof of Completion: [View HackerRank Screenshot](./task-3-platforms/HackerRank_Python_Proof.png)
+
+ module 3: Coding & Collaboration (Task 3)
+  Part A: Technical Platform
+  Platform: HackerRank (Python)
+  Proof of Completion: [View HackerRank Screenshot](./task-3-platforms/HackerRank_Python_Proof.png)
 
  Part B: Google Workspace Collaboration
  Tool Created: Digital Literacy Awareness Quiz (5-question assessment)
  Live Form Link: [Click here to take the Quiz](https://docs.google.com/forms/d/16yT7bEZP-TRG-KFYsfoVlXkESM5OOItq17RRZkk6xeo/edit)
  Data Management: Linked the form to a Google Sheet to showcase real-time data collection and collaboration.
  Evidence: [View Form & Sheet Screenshots](./task-3-platforms/Quiz_Responses_Sheet.png)
- 
-### Module 4: Professional Communication (Task 4)
-* **Status:** In Progress ⏳
-* [cite_start]**Description:** Mastering formal email structures and developing a responsible social media conduct checklist[cite: 59, 61, 67].
+
+module 4: Professional Communication - Reflection (task 4)
+   part-A
+   Email Drafts: 1. [Academic Meeting Request](./task-4-email-etiquette/email_draft_1.md)
+    2. [Internship Inquiry](./task-4-email-etiquette/email_draft_2.md)
+   part-B
+   Social Media Guide: [View Conduct Checklist](./task-4-email-etiquette/social_media_checklist.txt)
 
 ### Module 5: Cybercrime Awareness (Task 5)
 * **Status:** In Progress ⏳
