@@ -20,7 +20,7 @@ Module Summaries
 
 ### Module 2: Student Digital Portfolio (Task 2)
  Description: Established a professional digital presence by setting up and optimizing profiles on key platforms. Created a    specialized GitHub Profile README to introduce my technical interests and academic background.
- Platforms Set Up: [LinkedIn](www.linkedin.com/in/prisha-verma-585a6a2b9)- Optimized with Education details.
+ Platforms Set Up: [LinkedIn](www.linkedin.com/in/prisha-verma-585a6a2b9/)- Optimized with Education details.
     [GitHub Profile](https://github.com/prishaverma09/prishaverma09.git) - Featuring a custom Profile README.
     [Kaggle](https://www.kaggle.com/prishaverma01) - Set up for future data science and AI collaboration.
   Deliverables:[View Profile Screenshots](./task-2-portfolio/)
