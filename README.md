@@ -38,15 +38,14 @@ Module Summaries
  Evidence: [View Form & Sheet Screenshots](./task-3-platforms/Quiz_Responses_Sheet.png)
 
 ### module 4: Professional Communication - Reflection (task 4)
-   part-A
+   Part-A
    Email Drafts: 1. [Academic Meeting Request](./task-4-email-etiquette/email_draft_1.md)
     2. [Internship Inquiry](./task-4-email-etiquette/email_draft_2.md)
-   part-B
+   Part-B
    Social Media Guide: [View Conduct Checklist](./task-4-email-etiquette/social_media_checklist.txt)
 
-### Module 5: Cybercrime Awareness (Task 5)
-* **Status:** In Progress ⏳
-* [cite_start]**Description:** Researching realistic cybercrime scenarios and creating actionable prevention guides for financial and data safety[cite: 75, 76, 81].
-
----
-[cite_start]*This project is submitted as part of the internal assessment for CSE0001 at VIT Bhopal University.* [cite: 2]
+### Module 5: Digital Safety & Ethics (Task 5)
+ Part-A
+ Case Study: [Phishing & IT Act, 2000 Analysis](./task-5-safety/cybercrime_case_study.md)
+ Part-B
+ Safety Checklist: [View Digital Safety Guide](./task-5-safety/digital_safety_checklist.md)
