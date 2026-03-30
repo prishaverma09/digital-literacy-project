@@ -39,8 +39,8 @@ Module Summaries
 
 ### module 4: Professional Communication - Reflection (task 4)
    Part-A
-   Email Drafts: 1. [Academic Meeting Request](./task-4-email-etiquette/email_draft_1.md)
-    2. [Internship Inquiry](./task-4-email-etiquette/email_draft_2.md)
+   Email Drafts: 1. [Academic Meeting Request](./task-4-email-etiquette/email_draft_1.pdf)
+    2. [Internship Inquiry](./task-4-email-etiquette/email_draft_2.pdf)
    Part-B
    Social Media Guide: [View Conduct Checklist](./task-4-email-etiquette/social_media_checklist.txt)
 
