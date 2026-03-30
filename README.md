@@ -1,6 +1,5 @@
 digital-literacy-project
-Digital Literacy Portfolio for CSE0001 - Student Digital Ambassador Assignment" to make it look professional.
-CSE0001 - Digital Literacy Project
+Digital Literacy Portfolio for CSE0001 - Student Digital Ambassador Assignment
 Student Digital Ambassador Portfolio
 
 Student Information
